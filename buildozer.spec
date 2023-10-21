@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = Mortgage Calculator
+title = Easy Recipes
 
 # (str) Package name
-package.name = mortgagecalculator
+package.name = easyrecipes
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.wiseplat
